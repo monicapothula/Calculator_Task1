@@ -37,8 +37,8 @@ public class Calculator  {
 		
 		return first*second;
 	}
-
-public static void main(String[] args) {
+	
+	public static void main(String[] args) {
 		
 		Calculator cc = new Calculator();
 		
@@ -57,6 +57,10 @@ public static void main(String[] args) {
 		System.out.println("The multiples of two numbers is: "+cc.mulFucn(first, second));
 		
 	}
+	 
+
+}
+
 	 
 
 }
