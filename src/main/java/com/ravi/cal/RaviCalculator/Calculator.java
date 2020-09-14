@@ -57,11 +57,4 @@ public class Calculator  {
 		System.out.println("The multiples of two numbers is: "+cc.mulFucn(first, second));
 		
 	}
-	 
-
-}
-
-	 
-
-}
 }
